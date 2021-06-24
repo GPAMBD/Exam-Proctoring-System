@@ -99,7 +99,6 @@ https://user-images.githubusercontent.com/86056298/122684489-40560680-d223-11eb-
 - If you have any issue in installation jst call me on: +91 9096553454
 
 ## Desclaimer
-- The facial landmarks detection model is trained on non-commercial use datasets so I am not sure if that is allowed to be used for commercial purposes or not.
 - I copied some of the code which gives problem to me from `StackOverflow`.
 
 ## Feel Free To Contact
